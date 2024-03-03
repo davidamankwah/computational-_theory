@@ -22,5 +22,5 @@ Open a terminal window, and navigate to the directory where you want to clone th
 Here is the following command:
 ```bash
 git clone https://github.com/davidamankwah/computational_theory
-cd emerging_technology
+cd computational_theory
 ```
