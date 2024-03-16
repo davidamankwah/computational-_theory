@@ -5,7 +5,7 @@ By David Amankwah (G00394825)
 In Computational Theory from Software Development Year 4, I discuss the Countdown numbers game. I created a Juypter notebook to investigate and demonstrate the Countdown numbers game's challenges and functionality. The work I did researching the topic would be documented in the notebook.
 
 ## Countdown Assessment Notebook
-In the 'countdown.ipynb' notebook, I complete an assessment task centered on the Countdown number game. The numbers round of the TV program Countdown will be analyzed and solved. I created a Python function called 'solve_numbers' that can generate solutions for given sets of numbers and target values.
+In the 'countdown.ipynb' notebook, I complete an assessment task centered on the Countdown number game. The numbers round of the TV program Countdown will be analyzed and solved. There is a Python function called 'solve_numbers' that can generate solutions for given sets of numbers and target values.
 
 
 ## Getting Started
