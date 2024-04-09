@@ -19,11 +19,15 @@ Before proceeding, install the necessary prerequisites on your system.
 4. Visual Studio Code (https://code.visualstudio.com/)
 
 ## How to Install
-<h2>Visual Studio Code<h2>
+
+<h2>Visual Studio Code</h2>
 
 + Visit the official Visual Studio Code website and click on the "Download" button. Select your operating system.
+
 + After downloading the installer, find the downloaded file and double-click on it to start the installation process.
+
 + Once the installation is complete, you can launch Visual Studio Code by searching for it in your applications.
+
 + Check to see if the installation was done correctly. Open your terminal and enter the following command.
 ```bash
 code --version
