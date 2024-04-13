@@ -34,6 +34,7 @@ code --version
 ```
 
 <h2>Python</h2>
+
 + Visit the official Python website and click on the "Download" button. Select your operating system.
 
 + After downloading the installer, find the downloaded file and double-click on it to start the installation process.
@@ -46,6 +47,7 @@ code --version
 ```
 
 <h2>Anaconda</h2>
+
 + Visit the official Anaconda website and click on the "Download" button. Select your operating system.
 
 + After downloading the installer, find the downloaded file and double-click on it to start the installation process.
@@ -58,6 +60,7 @@ code --version
 ```
 
 <h2>Jupyter Notebook</h2>
+
 + Make sure to that Anaconda is installed for this section.
 
 + Open your terminal and enter the following command to install jupyter notebook.
