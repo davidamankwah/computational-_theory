@@ -33,6 +33,43 @@ Before proceeding, install the necessary prerequisites on your system.
 code --version
 ```
 
+<h2>Python</h2>
++ Visit the official Python website and click on the "Download" button. Select your operating system.
+
++ After downloading the installer, find the downloaded file and double-click on it to start the installation process.
+
++ Make sure to add Python to your system's PATH environment variable
+
++ Check to see if the installation was done correctly. Open your terminal and enter the following command.
+```bash
+ python --version
+```
+
+<h2>Anaconda</h2>
++ Visit the official Anaconda website and click on the "Download" button. Select your operating system.
+
++ After downloading the installer, find the downloaded file and double-click on it to start the installation process.
+
++ Once the installation is complete, you can launch Anaconda by searching for it in your applications.
+
++ Check to see if the installation was done correctly. Open your terminal and enter the following command.
+```bash
+code --version
+```
+
+<h2>Jupyter Notebook</h2>
++ Make sure to that Anaconda is installed for this section.
+
++ Open your terminal and enter the following command to install jupyter notebook.
+```bash
+ pip install jupyter
+```
+
++ Check to see if the installation was done correctly. Open your terminal and enter the following command.
+```bash
+jupyter notebook
+```
+
 ## Clone the Repository
 Open a terminal window, and navigate to the directory where you want to clone the repository.
 
