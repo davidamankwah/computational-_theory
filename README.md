@@ -61,7 +61,7 @@ code --version
 
 <h2>Jupyter Notebook</h2>
 
-+ Make sure to that Anaconda is installed for this section.
++ Make sure that Anaconda is installed for this section.
 
 + Open your terminal and enter the following command to install jupyter notebook.
 ```bash
